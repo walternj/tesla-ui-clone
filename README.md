@@ -10,4 +10,5 @@ Vous pouvez avoir un aperçu de son fonctionnement en accèdent à ce lien : htt
 
 <p float="center">
    <img src="https://github.com/walternj/tesla-ui-clone/blob/main/Capture.PNG" width="82.5%" />
+   <img src="https://github.com/walternj/tesla-ui-clone/blob/main/Capture_mobile.PNG" width="30%" />
 </p>
