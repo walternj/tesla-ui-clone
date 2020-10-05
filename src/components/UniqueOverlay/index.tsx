@@ -19,10 +19,10 @@ const UniqueOverlay: React.FC = () => {
       <Footer style={{opacity}}>
         <ul>
           <li>
-            <a href="#">Ui Clone</a>
+            <a href="/">Ui Clone</a>
           </li>
           <li>
-            <a href="#">made by WalterNJ</a>
+            <a href="https://github.com/walternj/tesla-ui-clone/blob/main/README.md">made by WalterNJ</a>
           </li>
         </ul>
       </Footer>
