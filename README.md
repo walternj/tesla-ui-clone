@@ -4,7 +4,7 @@ Ce projet est un Clone de l'interface utilisateur du site de Tesla.
 
 Le but était de reproduire le comportement de transition entre chaque modèle de voiture présents dans la landing page.
 
-Ce projet a était développé avec <strong>ReactJS, TypeSCript, Styled-Components et<a href="https://www.framer.com/motion/" target"blank"> Framer-Motion</a></strong>, une librairie pour faciliter les animations sur ReactJS.
+Ce projet a était développé avec <strong>ReactJS, TypeSCript, Styled-Components et<a href="https://www.framer.com/motion/" target="blank"> Framer-Motion</a></strong>, une librairie pour faciliter les animations sur ReactJS.
 
 Vous pouvez avoir un aperçu de son fonctionnement en accèdent à ce lien : https://tesla-ui-clone.netlify.app/
 
